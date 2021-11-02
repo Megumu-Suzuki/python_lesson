@@ -67,6 +67,7 @@ def fib(n):
 fib(10)
 
 
+
 # # 素数判定プログラム
 n = int(input("素数判定したい3以上の数字を入力。n=:"))
 for k in range(2,n):
